@@ -1,2 +1,2 @@
-#!/bin/bash/
-ls -l || grep="iamafile" /tmp
+#!/bin/bash
+file /tmp/iamafile
